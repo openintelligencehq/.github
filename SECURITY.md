@@ -4,7 +4,7 @@ We take security seriously and appreciate responsible disclosure.
 
 ## Reporting a Vulnerability
 
-Please report vulnerabilities by emailing: **security@openintelligence.ai**
+Please report vulnerabilities by emailing: **security@openintelligence.in**
 
 Include:
 
