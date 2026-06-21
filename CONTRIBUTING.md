@@ -1,5 +1,9 @@
 # Contributing to Open Intelligence
 
+Before contributing code, please read our Mission, Vision, and Engineering Principles.
+
+Every contribution should align with Open Intelligence's philosophy of building trustworthy AI that grows with people.
+
 Thanks for your interest in improving Open Intelligence.
 
 ## How to Contribute
